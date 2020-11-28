@@ -6,3 +6,6 @@ A free artificial intelligence (A.I.) plugin to analyze and predict the sentimen
 
 You may Register for Free and generate your API key via:
 + https://api.kenzyai.com
+
+You may Download the WordPress Plugin from here:
++ https://github.com/jasonjersey/wp-kenzyai/archive/master.zip
