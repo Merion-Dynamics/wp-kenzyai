@@ -2,9 +2,9 @@
 /*
 Plugin Name: Kenzy AI&trade; Comment Sentiment
 Description: A free artificial intelligence (A.I.) plugin to analyze and predict the sentiment of comments in either Chinese, English, French, Spanish and Emoji. Negative and neutral comments are placed on hold within your moderation queue, while positive comments are approved and published immediately. Kenzy AI's free API can support upto 1,000 comments per hour, per account.
-Version: 1.0.0
+Version: 1.0.1
 Author: Kenzy AI
-Author URi: https://api.kenzyai.com
+Author URi: https://kenzyai.com
 */
 
 defined('ABSPATH') or die("This page intentionally left blank.");
