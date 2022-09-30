@@ -8,4 +8,4 @@ You may Signup for Free and generate your API key via:
 + https://account.kenzyai.com/?route=signup
 
 You may Download the WordPress Plugin from here:
-+ https://github.com/davidbrahm/wp-kenzyai/archive/master.zip
++ https://github.com/Merion-Dynamics/wp-kenzyai/archive/master.zip
